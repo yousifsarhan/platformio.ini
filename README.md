@@ -4,7 +4,7 @@ Overview
 The Arduino Sensor Hub is a modular embedded systems project built using PlatformIO in Visual Studio Code. The system is designed to read data from multiple sensors, apply basic signal filtering, and stream structured data over the serial interface. The project emphasizes clean architecture, non-blocking execution, and scalability for future sensor expansion.
 
 This repository serves as a portfolio-grade example of embedded programming using modern development tools.
-
+I didnt have the aurdino board to test it.
 
 
 Features
